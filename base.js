@@ -405,7 +405,7 @@ window.SERIFU_BASE = [
         "text": "……ほんと、お前って俺がいなきゃダメだな。"
       }
     ]
-  },
+  }
   {
   "key": "wbatou",
   "name": "女-罵倒",
