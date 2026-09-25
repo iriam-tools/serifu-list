@@ -1,7 +1,7 @@
 window.SERIFU_BASE = [
   {
     "key": "bato",
-    "name": "罵倒",
+    "name": "男-罵倒",
     "prefix": "「なぁ、〇〇」〜",
     "items": [
       {
@@ -408,7 +408,7 @@ window.SERIFU_BASE = [
   },
   {
     "key": "ama",
-    "name": "甘々",
+    "name": "男-甘々",
     "prefix": "「〇〇ちゃんorくん」〜",
     "items": [
       {
